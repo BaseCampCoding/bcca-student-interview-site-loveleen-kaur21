@@ -1,0 +1,9 @@
+@import url(https://allfont.net/allfont.css?fonts=stencil);
+
+h1{
+    font-family: 'Stencil', arial;
+}
+.column {
+    width:300px;
+    float:left
+}
